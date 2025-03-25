@@ -23,8 +23,8 @@
         }
         .product-image {
             width: 100%;
-            max-width: 300px;
-            border-radius: 10px;
+            max-width: 800px;
+            border-radius: 100px;
         }
         .buy-btn {
             display: inline-block;
