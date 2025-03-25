@@ -143,3 +143,10 @@
 
 </body>
 </html>
+
+<form action="https://formsubmit.co/your-mnuzh.family1256@gmail.com" method="POST">
+    <input type="text" name="name" placeholder="Your Name" required><br>
+    <input type="email" name="email" placeholder="Your Email" required><br>
+    <textarea name="message" placeholder="Your Message" required></textarea><br>
+    <button type="submit">Send Message</button>
+</form>
